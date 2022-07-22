@@ -8,7 +8,7 @@ export const container = style({
   width: "100%",
   zIndex: 1,
   paddingTop: "5px",
-  paddingBottom: 8,
+  paddingBottom: 10,
   maxWidth: 640,
 });
 
@@ -18,7 +18,7 @@ export const children = (customWidth: string, selected: boolean) =>
     height: "100%",
     textAlign: "center",
     position: "relative",
-    fontSize: 14,
+    fontSize: 13,
     color: selected ? "#000000" : "#b0b0b0",
     fontWeight: 700,
     transition: "color 0.2s ease",

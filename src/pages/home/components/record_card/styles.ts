@@ -15,7 +15,7 @@ export const logoContainer = style({
   height: 48,
   borderRadius: "50%",
   background: "#1a1c1e",
-  marginRight: "12px",
+  marginRight: "16px",
 });
 
 export const label = style({

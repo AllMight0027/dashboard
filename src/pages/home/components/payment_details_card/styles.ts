@@ -12,7 +12,7 @@ export const card = style({
 });
 
 export const graphImg = style({
-  height: 72,
+  height: 50,
 });
 
 export const date = style({

@@ -1,7 +1,7 @@
 import { style } from "typestyle";
 
 export const tabsContainer = style({
-  padding: "10px 8px 0",
+  padding: "10px 6px 0",
   background: "#ffffff",
   boxShadow: "0px 3px 6px 0px rgba(0, 0, 0, 0.02)",
 });

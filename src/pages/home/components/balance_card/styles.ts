@@ -13,7 +13,7 @@ export const card = style({
 });
 
 export const graphImg = style({
-  height: 70,
+  height: 64,
 });
 
 export const addBtn = style({
@@ -22,7 +22,7 @@ export const addBtn = style({
   background: "#4a12ea",
   borderRadius: 6,
   padding: "14px 28px",
-  fontWeight: 400,
+  fontWeight: 800,
 });
 
 export const heading = style({
